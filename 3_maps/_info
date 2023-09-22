@@ -13,3 +13,18 @@ Description: Test App
 
 ******************************************************
 
+    ** Run Parcel Bundler **
+
+$   parcel index.html           // Browse http://localhost:1234/
+
+******************************************************
+
+    ** `faker` package **
+
+Generate massive amounts of fake contextual data
+https://www.npmjs.com/package/faker
+
+$   npm i faker@4.1.0
+
+// Type Definition Files
+$   npm i @types/faker@5.5.7
