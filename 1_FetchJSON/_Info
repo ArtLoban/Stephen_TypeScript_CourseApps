@@ -1,0 +1,44 @@
+
+        >>> Info <<<
+
+***********************************************************
+
+Course:     Stephen Grider
+See:        /home/user/Documents/[_Study_]/[Stephen Grider]/[Typescript]/Files/1_Tutorials/1 - Getting Started with Typescript/6 - A First App.mp4
+Repo:       https://github.com/ArtLoban/Stephen_***
+
+Started:    13.09.2023
+Done:       13.09.2023
+
+Description: Small TS introduction project. Показывает простые примеры применения TypeScript
+
+******************************************************
+
+    ** Node Version **
+
+$   node -v     // v16.20.2
+
+Use this version
+$   nvm use 16          // Для этой версии бы установлен компилятор TS!
+
+******************************************************
+
+    ** Setup Project **
+
+1. Init
+$   cd app/
+$   npm init
+
+2. Install axios
+$   npm i axios
+
+******************************************************
+
+    ** Run App **
+
+1) Компиляция и запуск
+$   tsc index.ts
+$   node index.js
+
+2) Или с помощью одной команды и либы `ts-node`
+$   ts-node index.ts
