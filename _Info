@@ -6,7 +6,7 @@
 Course:     Stephen Grider
 Name:       Typescript: The Complete Developer's Guide
 Udemy:      https://www.udemy.com/course/typescript-the-complete-developers-guide/
-Repo:       https://github.com/ArtLoban/Stephen_***
+Repo:       https://github.com/ArtLoban/Stephen_TypeScript_CourseApps
 
 Started:    13.09.2023
 
@@ -29,5 +29,3 @@ Tool to help us run Typescript in the browser
 $   npm install -g parcel-bundler
 
 ******************************************************
-
-    ** Setup Project **
